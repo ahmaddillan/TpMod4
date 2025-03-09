@@ -1,0 +1,15 @@
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\bin\Debug\net8.0\TpMod4.exe
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\bin\Debug\net8.0\TpMod4.deps.json
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\bin\Debug\net8.0\TpMod4.runtimeconfig.json
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\bin\Debug\net8.0\TpMod4.dll
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\bin\Debug\net8.0\TpMod4.pdb
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\obj\Debug\net8.0\TpMod4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\obj\Debug\net8.0\TpMod4.AssemblyInfoInputs.cache
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\obj\Debug\net8.0\TpMod4.AssemblyInfo.cs
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\obj\Debug\net8.0\TpMod4.csproj.CoreCompileInputs.cache
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\obj\Debug\net8.0\TpMod4.sourcelink.json
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\obj\Debug\net8.0\TpMod4.dll
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\obj\Debug\net8.0\refint\TpMod4.dll
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\obj\Debug\net8.0\TpMod4.pdb
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\obj\Debug\net8.0\TpMod4.genruntimeconfig.cache
+C:\Users\Dillan\Documents\praktikum kpl\mod4\TpMod4\TpMod4\obj\Debug\net8.0\ref\TpMod4.dll
