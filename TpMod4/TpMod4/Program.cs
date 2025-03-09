@@ -62,10 +62,7 @@ public class DoorMachine
                         Program.Main();
                     }
                     break;
-
             }
-
-            
         }
     }
 }
@@ -86,9 +83,7 @@ public class Program
         {
             if (masuk == "1")
             {
-
                 Kodepos Kode = new Kodepos();
-
                 Console.WriteLine("masukkan nama kelurahan (kembali untuk ke menu utama) : ");
                 string kelurahan = Console.ReadLine() ?? "";
 
@@ -107,14 +102,10 @@ public class Program
             {
                 DoorMachine door = new DoorMachine();
                 door.door();
-
             }
-            else {
-
+            else if (masuk == "0") {
                 break;
             }
         }
-
-
     }
 }
